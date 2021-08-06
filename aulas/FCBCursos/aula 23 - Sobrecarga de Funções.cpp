@@ -4,9 +4,9 @@
 using namespace std;
 
 
-int     facaAlgo(int);                      // Dobra o valor
-int     facaAlgo(double);                   // Triplica e retorna int
-int     facaAlgo(float, float);             // Tira a média
+int facaAlgo(int);                      // Dobra o valor
+int facaAlgo(double);                   // Triplica e retorna int
+int facaAlgo(float, float);             // Tira a média
 
 
 int main() {
