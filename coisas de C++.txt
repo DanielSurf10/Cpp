@@ -1,0 +1,57 @@
+C++
+	C++ Tutorials - Caleb Curry
+	https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
+
+		I/O
+			cout
+			cin
+		Strings
+			C strings
+			C++ strings
+				String class
+				Get line for strings
+				Métodos de strings
+		Array
+			Array
+			Vetor
+			STL Array
+		IO Stream
+			Arquivos
+				Criação
+				Leitura - ifstream
+				Escrita - ofstream
+		Referência
+			Ponteiro   - *
+			Refêrencia - &
+				Argumentos de função com referência
+		Funções
+			Funtion overloading
+			Argumentos padrão
+			Funtion templates
+				Overloading funtion templates
+		Makefiles
+		Namespace
+		POO
+			Structs
+			Classes
+			Objetos
+			Diferença entre classes e objetos
+			Membros
+				Métodos
+				Dados
+			Especificadores de acesso
+				Public
+				Private
+				Protected
+			Constructors
+			Destructors
+			Encapsulamento
+			Getters e Setters
+			Membros estáticos
+			Friend funtion
+			Operetor overloading
+			Herança
+				Base class
+				Subclass
+			Polimorfismo
+
