@@ -55,3 +55,46 @@ C++
 				Subclass
 			Polimorfismo
 
+	Livro
+	C++ Como Programar - 5ª Edição
+
+		Funções
+			Inline
+			Parâmetros de referência
+			Argumentos-padrão
+			Operador de solução de escopo unário
+			Sobrecarga de funções
+			Templates de função
+		
+		Array e vetores
+			Array e vetores com templates: static_cast<tipo> operando -> list<int> lista_int
+		
+		Ponteiros
+			Utilizando const com ponteiros
+
+		Classes e objetos
+			Classes
+			Objetos
+			Funções-membros - métodos
+				Funções de acesso
+					Getters
+					Setters
+				Funções utilitárias
+			Membros de dados
+			Construtores
+				Construtores com agumentos-padrão
+			Destrutores
+			Quando construtores e destrutores são chamados
+			Escopo de classe
+				Acesso a membros de classe
+			Atribuição-padrão de membro a membro
+			Objetos const
+			Funções-membro const
+			Composição: objetos como membros de classes
+			Funções friend 
+			Classes friend
+			Ponteiro this
+			Gerenciamento de memória dinâmico
+				new
+				delete
+			Membros de classe static
