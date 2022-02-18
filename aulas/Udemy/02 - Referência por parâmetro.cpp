@@ -27,3 +27,8 @@ void inverte(int& num1, int& num2) {
     num1 = num2;
     num2 = temp;
 }
+
+// cd $dir && 
+// && g++ \"$fileName\" -o \"$fileNameWithoutExt\" && $dir$fileNameWithoutExt
+
+// g++ \"$dir$fileName\"
