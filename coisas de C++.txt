@@ -100,11 +100,22 @@ C++
 				new
 				delete
 			Membros de classe static - p.435
-			Classes proxy
+			Classes proxy - p.442
 	
 
-	C++ Para Leigos, 7ª Edition
+	C++ For Dummies, 7th Edition
 
-		Parte 1: Começando com programação C++ - p.7
+		Parte I: Começando com programação C++ - p.7
 			Capítulo 2: Declarando Variáveis Constantemente - p.33
 				Declarações Automáticas - p.46
+			Capítulo 4: Efetuando Operações Lógicas - p.53
+				Armazenando valores lógicos - p.55
+			Capítulo 5: Controlando o Fluxo do Programa - p.69
+				For each his own - p.79
+		Parte II: Como se Tornar um Programador Funcional - p.89
+			Capítulo 6: Criando Funções - p.89
+				Sobrecarregando nomes de função - p.98
+				Definindo protótipos de função - p.99
+				Argumentos padrão - p.101
+				Passando por valor e por referência - p.102
+				Escopo de variável - p.104
