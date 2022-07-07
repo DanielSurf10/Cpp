@@ -112,6 +112,7 @@ C++
 				Armazenando valores lógicos - p.55
 			Capítulo 5: Controlando o Fluxo do Programa - p.69
 				For each his own - p.79
+
 		Parte II: Como se Tornar um Programador Funcional - p.89
 			Capítulo 6: Criando Funções - p.89
 				Sobrecarregando nomes de função - p.98
